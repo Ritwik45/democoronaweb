@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+    font-family: 'Ubuntu','san-serif';
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1{
+    text-align: center;
+}
+.hero-img{
+    height: 300px;
+    width: 600px;
+    border-radius: 10px;
+}
+.symimg{
+    height: 30px;
+    width: 30px;
+}
